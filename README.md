@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Attendance System by Face / Gesture 👩‍💻
 
 A Python-based attendance system using OpenCV that automatically detects student presence through webcam and marks attendance using two modes:
@@ -67,3 +68,7 @@ python main.py
 - Detects raised hand gesture
 - Prompts for student ID input
 - Marks attendance upon gesture confirmation
+=======
+# OpenCV
+Smart Attendance System using OpenCV and Python.
+>>>>>>> a45273119ac13a26cfdc56aa150e1787a9459700
